@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haydn</h1>
-<h3 align="center">I'm a one-eyed machine learning researcher at Los Alamos National Laboratory</h3>
+<h3 align="center">I'm a one-eyed machine learning PhD @ Penn</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
