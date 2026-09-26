@@ -1,6 +1,4 @@
-Hi there! I'm Haydn, a PhD student at the University of Pennsylvania in [Jacob Gardner's](https://jacobrgardner.github.io) lab. My research focuses on applying machine learning to scientific problems, particularly in drug discovery and pharmaceutical applications.
+I'm Haydn, a PhD student at Penn working with [Jacob Gardner](https://jacobrgardner.github.io) and [Mark Yatskar](https://www.cis.upenn.edu/~myatskar/). I mainly work on LLMs for biomedical science: agents over scientific literature, getting language models to understand molecular structure, deep research systems, and so on. When I have time, which is approximately never, I like to play around with distributed training and LLM inference. The JAX stint was a temporary mania.
 
-My interests include generative modeling, Bayesian optimization, and representation learning.
-
-- Google Scholar: [here](https://scholar.google.com/citations?user=Yhmmt5YAAAAJ)
-- Dormant blog: [here](https://haydn.fgl.dev)
+- [Google Scholar](https://scholar.google.com/citations?user=Yhmmt5YAAAAJ)
+- [Blog](https://haydn.fgl.dev) (dormant)
